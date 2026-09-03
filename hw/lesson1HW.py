@@ -28,7 +28,7 @@ print(hugo.attack())
 print(hugo.rest())
 print(f"После действий: здоровье={hugo.health}, сила={hugo.strength}")
 
-print()
+
 
 print("Loki")
 print(f"До действий: здоровье={loki.health}, сила={loki.strength}")
