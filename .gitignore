@@ -3,6 +3,6 @@ __pycache__
 .venv
 venv
 month1
-month2/lesson1.py
+
 month2/practice.py
 .DS_Store
