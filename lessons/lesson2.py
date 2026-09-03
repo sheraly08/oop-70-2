@@ -48,7 +48,7 @@ class Duck(Fly, Swim):
 donald_duck = Duck()
 
 
-# donald_duck.fly()
+#  donald_duck.fly()
 # donald_duck.swim()
 
 # HeroMage
